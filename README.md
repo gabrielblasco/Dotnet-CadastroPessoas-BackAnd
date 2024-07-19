@@ -1,2 +1,2 @@
-# angular-cadastro-cliente
-cadastro de cliente com consulta a API de CEP - Front-end -> Angular / Back-end -> C# .NET
+# angular-cadastro-Pessoas
+cadastro de Pessoas  - Front-end -> Angular / Back-end -> C# .NET
